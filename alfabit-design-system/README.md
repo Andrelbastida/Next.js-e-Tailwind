@@ -16,6 +16,8 @@ bun dev
 npm run storybook
 # or
 npx sb init
+# or
+npm run storybook
 ```
 
 
